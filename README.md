@@ -7,4 +7,4 @@ I am Sourabh Agrawal, a final year undergraduate pursuing **BTech in Information
   - https://www.linkedin.com/in/sourabhkhs/
   - https://twitter.com/sourabhkhs23
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=intelligentcodes&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sourabhagrawal23&show_icons=true)
