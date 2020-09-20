@@ -6,3 +6,5 @@ I am Sourabh Agrawal, a final year undergraduate pursuing **BTech in Information
 - 📫 How to reach me:  
   - https://www.linkedin.com/in/sourabhkhs/
   - https://twitter.com/sourabhkhs23
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=PranjalAgni&show_icons=true)
