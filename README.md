@@ -18,10 +18,10 @@
 </p>
 <br/>
 
-<p>
+<p align="center">
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=sourabhagrawal23&show_icons=true" alt="sourabhagrawal23" />
- <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhagrawal23&layout=compact&hide=html" alt="sourabhagrawal23" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=sourabhagrawal23&show_icons=true" alt="sourabhagrawal23" />
+ <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhagrawal23&layout=compact&hide=html" alt="sourabhagrawal23" />
 </p>
 
 <br/>
