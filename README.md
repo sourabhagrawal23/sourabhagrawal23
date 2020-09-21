@@ -28,7 +28,7 @@
 
 <br/>
 <p align="center">
-<a href="https://twitter.com/sourabhkhs23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sourabhkhs23" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/sourabhkhs/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sourabhkhs" height="30" width="30" /></a>
+<a href="https://twitter.com/sourabhkhs23" target="new"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sourabhkhs23" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/sourabhkhs/" target="new"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sourabhkhs" height="30" width="30" /></a>
 </p>
 
