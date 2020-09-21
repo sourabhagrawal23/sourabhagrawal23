@@ -23,7 +23,7 @@
 <p align="center">
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sourabhagrawal23&show_icons=true)
-
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhagrawal23&layout=compact&hide=html" alt="sourabhagrawal23" />
 </p>
 
 <br/>
