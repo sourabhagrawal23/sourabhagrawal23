@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourabh Agrawal</h1>
 <h3 align="center">Senior year B.Tech undergrad at KIIT Bhubaneswar</h3>
 <br/>
-<p align="center">
-<center>
-<a href="https://twitter.com/sourabhkhs23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sourabhkhs23" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/sourabhkhs/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sourabhkhs" height="30" width="30" /></a>
-</p>
+
 
 <p align="center">
   
@@ -28,5 +24,11 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sourabhagrawal23&show_icons=true)
 
+</p>
+
+<br/>
+<p align="center">
+<a href="https://twitter.com/sourabhkhs23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sourabhkhs23" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/sourabhkhs/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sourabhkhs" height="30" width="30" /></a>
 </p>
 
