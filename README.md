@@ -19,7 +19,7 @@
 <br/>
 
 
-
+<center>
 <p align="center">
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sourabhagrawal23&show_icons=true)
