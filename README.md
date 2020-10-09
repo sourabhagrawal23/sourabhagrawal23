@@ -6,6 +6,7 @@
 <p align="center">
   
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/handlebars/handlebars-original-wordmark.svg" alt="javascript" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="java" width="40" height="40"/>
   <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="javascript" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
