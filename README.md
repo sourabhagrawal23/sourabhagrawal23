@@ -27,9 +27,9 @@
  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhagrawal23&layout=compact&hide=html" alt="sourabhagrawal23" />
 </p>
 <br/>
-<center>
+<p align="center">
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhagrawal23" />
-</center>
+</p>
 
 <br/>
 <p align="center">
