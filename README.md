@@ -27,6 +27,9 @@
  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhagrawal23&layout=compact&hide=html" alt="sourabhagrawal23" />
 </p>
 
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhagrawal23" />
+
+
 <br/>
 <p align="center">
 <a href="https://twitter.com/sourabhkhs23" target="new"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sourabhkhs23" height="30" width="30" /></a>
