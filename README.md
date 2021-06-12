@@ -26,8 +26,8 @@
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sourabhagrawal23&show_icons=true" alt="sourabhagrawal23" />
  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhagrawal23&layout=compact&hide=html" alt="sourabhagrawal23" />
 </p>
-
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhagrawal23" />
+<br/>
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhagrawal23"/>
 
 
 <br/>
