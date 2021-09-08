@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourabh Agrawal</h1>
-<h3 align="center">Senior year B.Tech undergrad at KIIT Bhubaneswar</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 <br/>
 
 
